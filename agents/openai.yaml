@@ -1,0 +1,4 @@
+interface:
+  display_name: "Aide à la décision"
+  short_description: "Construire un prompt avec des critères de décision"
+  default_prompt: "Utilise $construire-prompt-decision pour transformer ma décision à prendre en un prompt précis."
